@@ -7,5 +7,6 @@ def my_select(collection)
    answer.push(collection[i])
  end 
  i += 1 
- 
+ end 
+ answer
 end
